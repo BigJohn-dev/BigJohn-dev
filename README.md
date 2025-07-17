@@ -1,4 +1,4 @@
-## Hi there, am John 😎✨
+## Hi there, i'm John 😎✨
 
 💻🌱 Aspiring Software Engineer <br>
 👩‍💻 Trainee at Semicolon Africa <br>
