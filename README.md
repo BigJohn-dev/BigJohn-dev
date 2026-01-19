@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm John | Full-Stack Engineer in Training 🚀
+## 👋 Hi there, I'm John | Full-Stack Engineer 🚀
 
 I am a software engineering trainee at **Semicolon Africa**, where I am transforming from an enthusiast into a professional developer. I enjoy building robust backends and clean, interactive frontends.
 
