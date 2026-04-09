@@ -1,9 +1,11 @@
-## 👋 Hi there, I'm John | Full-Stack Engineer 🚀
+## 👋 Hi there, I'm John Imeobong | Software Engineer 🚀
 
-I am a software engineering trainee at **Semicolon Africa**, where I am transforming from an enthusiast into a professional developer. I enjoy building robust backends and clean, interactive frontends.
+I am a Software Engineer dedicated to building scalable solutions that solve real-world African problems. I specialize in crafting robust backends and clean, interactive frontends, with a growing passion for mobile development and AI-driven applications.
 
-- 🎯 **Goal:** To build scalable solutions that solve real-world African problems.
+- 🛠️ **Current Focus:** Building cross-platform mobile experiences and exploring Game development.
+- 🎯 **Goal:** Bridging the gap between complex engineering and user-centric design.
 - ⚡ **Fun fact:** I believe in building "brick by brick"—consistency over intensity.
+- 🌐 **Portfolio:** [Visit my work](https://portfolio-two-nu-86.vercel.app/)
 
 ---
 
@@ -12,9 +14,10 @@ I am a software engineering trainee at **Semicolon Africa**, where I am transfor
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
